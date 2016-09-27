@@ -46,3 +46,5 @@ User.sync()
         });
     });
 
+
+module.exports = app;
